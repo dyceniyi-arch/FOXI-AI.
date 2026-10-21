@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "FOXI",
+    "slug": "foxi-social",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0D0D0F"
+    },
+    "android": {
+      "package": "com.niyidyce.foxi",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#FF7A18"
+      }
+    }
+  }
+}
